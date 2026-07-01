@@ -1,0 +1,1085 @@
+canonical_identifier: bkk:krp/KR6q0249/v1
+canonical_location: https://kanripo.org/bkk/KR6q0249/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛果擊節錄
+  identifiers:
+    alt_id:
+    - X67n1301
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X67/X67n1301.xml
+    old_id: X67n1301
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0249_000.yaml, hash: 'sha256:e9d079dab173fa1072a6b80c23017dde221e0026588da3b431c2ede57ac6ddc1'}
+  - {seq: 1, filename: KR6q0249_001.yaml, hash: 'sha256:e214f1ba8a1799da1a70c24df5df7b31bd146ea7c0203d444f601a7d618f169c'}
+  - {seq: 2, filename: KR6q0249_002.yaml, hash: 'sha256:f9395a396014ed9ea33202cdeed9ba857f1281e89f3197aeac3f11e6202def9e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0249_000.markers.yaml, hash: 'sha256:07325ddbe8ff904a0c2c6a166a29f18818862bd75a0f9d656c5d6048fd17cc1c'}
+  - {seq: 1, role: markers, filename: assets/KR6q0249_001.markers.yaml, hash: 'sha256:63bd60085e74aff67bea8eccc307f00db25d519e3d3e8b7f18e1ed418001f7f0'}
+  - {seq: 2, role: markers, filename: assets/KR6q0249_002.markers.yaml, hash: 'sha256:c6e32e84c455f57490188141a8dbccd14f50be5170334d50ab3a2aebfdcd08d5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0249_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1301-A 重刻圓悟禪師擊節錄題辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0249_X_000-mulu-2
+    span:
+    - front
+    - 123
+    - 123
+  label: No. 1301-B
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0249_X_000-mulu-3
+    span:
+    - front
+    - 376
+    - 376
+  label: 佛果擊節目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18110
+  label: 佛果擊節錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 第一則德山示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-2
+    span:
+    - body
+    - 1140
+    - 1140
+  label: 第二則雪峯普請
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-3
+    span:
+    - body
+    - 1515
+    - 1515
+  label: 第三則百丈拂子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-4
+    span:
+    - body
+    - 2634
+    - 2634
+  label: 第四則崇壽指凳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-5
+    span:
+    - body
+    - 2844
+    - 2844
+  label: 第五則永嘉遶錫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-6
+    span:
+    - body
+    - 3450
+    - 3450
+  label: 第六則仰山指雪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-7
+    span:
+    - body
+    - 3868
+    - 3868
+  label: 第七則香嚴垂語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-8
+    span:
+    - body
+    - 4474
+    - 4474
+  label: 第八則魯祖喫飯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-9
+    span:
+    - body
+    - 4884
+    - 4884
+  label: 第九則雪峰古㵎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-10
+    span:
+    - body
+    - 5746
+    - 5746
+  label: 第十則西堂爛却
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-11
+    span:
+    - body
+    - 6064
+    - 6064
+  label: 第十一則欽山竪拳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-12
+    span:
+    - body
+    - 6471
+    - 6471
+  label: 第十二則睦州苕菷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-13
+    span:
+    - body
+    - 6929
+    - 6929
+  label: 第十三則棗樹漢國
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-14
+    span:
+    - body
+    - 7687
+    - 7687
+  label: 第十四則趙州偷筍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-15
+    span:
+    - body
+    - 8178
+    - 8178
+  label: 第十五則保壽開堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-16
+    span:
+    - body
+    - 9251
+    - 9251
+  label: 第十六則無業妄想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-17
+    span:
+    - body
+    - 9664
+    - 9664
+  label: 第十七則德山作麼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-18
+    span:
+    - body
+    - 10232
+    - 10232
+  label: 第十八則保福簽瓜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-19
+    span:
+    - body
+    - 10717
+    - 10717
+  label: 第十九則南泉示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-20
+    span:
+    - body
+    - 11162
+    - 11162
+  label: 第二十則馬祖圖相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-21
+    span:
+    - body
+    - 11414
+    - 11414
+  label: 第二十一則興化罰錢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-22
+    span:
+    - body
+    - 12471
+    - 12471
+  label: 第二十二則長慶淘金
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-23
+    span:
+    - body
+    - 13155
+    - 13155
+  label: 第二十三則大梅無意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-24
+    span:
+    - body
+    - 13368
+    - 13368
+  label: 第二十四則臨濟蒿枝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-25
+    span:
+    - body
+    - 13995
+    - 13995
+  label: 第二十五則師祖珠藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-26
+    span:
+    - body
+    - 14375
+    - 14375
+  label: 第二十六則鏡清問僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-27
+    span:
+    - body
+    - 14543
+    - 14543
+  label: 第二十七則雲門法身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-28
+    span:
+    - body
+    - 14818
+    - 14818
+  label: 第二十八則三聖金鱗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-29
+    span:
+    - body
+    - 15077
+    - 15077
+  label: 第二十九則伏牛馳書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-30
+    span:
+    - body
+    - 15490
+    - 15490
+  label: 第三十則玄沙過患
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-31
+    span:
+    - body
+    - 15770
+    - 15770
+  label: 第三十一則報慈問僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-32
+    span:
+    - body
+    - 16058
+    - 16058
+  label: 第三十二則船子絲綸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-33
+    span:
+    - body
+    - 16289
+    - 16289
+  label: 第三十三則投子一言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-34
+    span:
+    - body
+    - 16606
+    - 16606
+  label: 第三十四則祖師六塵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-35
+    span:
+    - body
+    - 16959
+    - 16959
+  label: 第三十五則本生拄杖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-36
+    span:
+    - body
+    - 17504
+    - 17504
+  label: 第三十六則安國伊蘭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0249_X_001-mulu-37
+    span:
+    - body
+    - 17779
+    - 17779
+  label: 第三十七則玄沙見虎
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 20029
+  label: 佛果擊節錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 第三十八則洞山三頓
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-2
+    span:
+    - body
+    - 794
+    - 794
+  label: 第三十九則大慈示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-3
+    span:
+    - body
+    - 1612
+    - 1612
+  label: 第四十則黃蘖閉門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-4
+    span:
+    - body
+    - 1847
+    - 1847
+  label: 第四十一則鏡清方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-5
+    span:
+    - body
+    - 2302
+    - 2302
+  label: 第四十二則香林衲衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-6
+    span:
+    - body
+    - 2611
+    - 2611
+  label: 第四十三則本仁示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-7
+    span:
+    - body
+    - 2917
+    - 2917
+  label: 第四十四則國師三喚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-8
+    span:
+    - body
+    - 3092
+    - 3092
+  label: 第四十五則投子抑逼
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-9
+    span:
+    - body
+    - 3392
+    - 3392
+  label: 第四十六則雲門示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-10
+    span:
+    - body
+    - 3533
+    - 3533
+  label: 第四十七則智門草鞋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-11
+    span:
+    - body
+    - 3732
+    - 3732
+  label: 第四十八則雪峰五棒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-12
+    span:
+    - body
+    - 4003
+    - 4003
+  label: 第四十九則徑山一點
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-13
+    span:
+    - body
+    - 4448
+    - 4448
+  label: 第五十則睦州擔板
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-14
+    span:
+    - body
+    - 4649
+    - 4649
+  label: 第五十一則巴陵示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-15
+    span:
+    - body
+    - 4885
+    - 4885
+  label: 第五十二則則川摘茶
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-16
+    span:
+    - body
+    - 5230
+    - 5230
+  label: 第五十三則雲門裂破
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-17
+    span:
+    - body
+    - 5380
+    - 5380
+  label: 第五十四則睦州鉢囊
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-18
+    span:
+    - body
+    - 5526
+    - 5526
+  label: 第五十五則雪峰三下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-19
+    span:
+    - body
+    - 5697
+    - 5697
+  label: 第五十六則南泉出世
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-20
+    span:
+    - body
+    - 6078
+    - 6078
+  label: 第五十七則欽山恁麼
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-21
+    span:
+    - body
+    - 6658
+    - 6658
+  label: 第五十八則玄沙問僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-22
+    span:
+    - body
+    - 6935
+    - 6935
+  label: 第五十九則長慶羚羊
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-23
+    span:
+    - body
+    - 7171
+    - 7171
+  label: 第六十則圓明示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-24
+    span:
+    - body
+    - 7362
+    - 7362
+  label: 第六十一則南院諸聖
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-25
+    span:
+    - body
+    - 7595
+    - 7595
+  label: 第六十二則雪峰相見
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-26
+    span:
+    - body
+    - 7902
+    - 7902
+  label: 第六十三則國師淨瓶
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-27
+    span:
+    - body
+    - 8137
+    - 8137
+  label: 第六十四則茱萸看箭
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-28
+    span:
+    - body
+    - 8464
+    - 8464
+  label: 第六十五則臨濟赴齋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-29
+    span:
+    - body
+    - 8978
+    - 8978
+  label: 第六十六則三角示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-30
+    span:
+    - body
+    - 9256
+    - 9256
+  label: 第六十七則巖頭跨門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-31
+    span:
+    - body
+    - 9552
+    - 9552
+  label: 第六十八則太原顧視
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-32
+    span:
+    - body
+    - 9913
+    - 9913
+  label: 第六十九則雲門三病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-33
+    span:
+    - body
+    - 10240
+    - 10240
+  label: 第七十則鼓山示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-34
+    span:
+    - body
+    - 10610
+    - 10610
+  label: 第七十一則睦州毛端
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-35
+    span:
+    - body
+    - 10930
+    - 10930
+  label: 第七十二則仰山坐次
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-36
+    span:
+    - body
+    - 11320
+    - 11320
+  label: 第七十三則智門般若
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-37
+    span:
+    - body
+    - 11651
+    - 11651
+  label: 第七十四則烏臼參堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-38
+    span:
+    - body
+    - 12034
+    - 12034
+  label: 第七十五則雪峰天使
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-39
+    span:
+    - body
+    - 12776
+    - 12776
+  label: 第七十六則大隨普賢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-40
+    span:
+    - body
+    - 13037
+    - 13037
+  label: 第七十七則雲門新羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-41
+    span:
+    - body
+    - 13204
+    - 13204
+  label: 第七十八則北禪資福
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-42
+    span:
+    - body
+    - 13430
+    - 13430
+  label: 第七十九則睦州示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-43
+    span:
+    - body
+    - 13810
+    - 13810
+  label: 第八十則玄沙圓相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-44
+    span:
+    - body
+    - 14108
+    - 14108
+  label: 第八十一則南泉賣身
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-45
+    span:
+    - body
+    - 14375
+    - 14375
+  label: 第八十二則茱萸一橛
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-46
+    span:
+    - body
+    - 14591
+    - 14591
+  label: 第八十三則夾山生死
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-47
+    span:
+    - body
+    - 14927
+    - 14927
+  label: 第八十四則保福羚羊
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-48
+    span:
+    - body
+    - 15074
+    - 15074
+  label: 第八十五則巴陵祖意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-49
+    span:
+    - body
+    - 15262
+    - 15262
+  label: 第八十六則趙州答話
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-50
+    span:
+    - body
+    - 15654
+    - 15654
+  label: 第八十七則躭源辭師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-51
+    span:
+    - body
+    - 15830
+    - 15830
+  label: 第八十八則溈仰田中
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-52
+    span:
+    - body
+    - 16234
+    - 16234
+  label: 第八十九則雪峰覆船
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-53
+    span:
+    - body
+    - 16538
+    - 16538
+  label: 第九十則保福扶犁
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-54
+    span:
+    - body
+    - 16897
+    - 16897
+  label: 第九十一則大梅鼯鼠
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-55
+    span:
+    - body
+    - 17199
+    - 17199
+  label: 第九十二則趙州般若
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-56
+    span:
+    - body
+    - 17409
+    - 17409
+  label: 第九十三則德山托鉢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-57
+    span:
+    - body
+    - 17954
+    - 17954
+  label: 第九十四則雪峰古鏡
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-58
+    span:
+    - body
+    - 18215
+    - 18215
+  label: 第九十五則洞山衣鉢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-59
+    span:
+    - body
+    - 18539
+    - 18539
+  label: 第九十六則投子三星
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-60
+    span:
+    - body
+    - 18831
+    - 18831
+  label: 第九十七則洛浦伏膺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-61
+    span:
+    - body
+    - 19310
+    - 19310
+  label: 第九十八則香嚴仙陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-62
+    span:
+    - body
+    - 19439
+    - 19439
+  label: 第九十九則風穴離微
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0249_X_002-mulu-63
+    span:
+    - body
+    - 19691
+    - 19691
+  label: 第百則古德沙水
+  type: mulu
+  level: 1
+hash: sha256:3e44378bcc9f4b45d17fe4b24a700f615606801cda1fdb547a31f11feaa213b1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
