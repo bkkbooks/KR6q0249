@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0249/v1
 canonical_location: https://kanripo.org/bkk/KR6q0249/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛果擊節錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0249_000.yaml, hash: 'sha256:ca944becba1dc8762c06460f3fab9581f7db5722948241669fb2913f50d773da'}
-  - {seq: 1, filename: KR6q0249_001.yaml, hash: 'sha256:2568a5f2973e4d058c0d447c81108103d3b3e9d760db70f7b3dad90993ca0503'}
-  - {seq: 2, filename: KR6q0249_002.yaml, hash: 'sha256:e4bb925c8e547d0ec1c145074e9148b9feb96bbfce7f13a5e01ae6aba101e5b1'}
+  - {seq: 0, filename: KR6q0249_000.yaml, hash: 'sha256:5f142151a3708fe10d09d2ce5066ad4f7b03ee8643c7ad121c0b559b6ec0dd79'}
+  - {seq: 1, filename: KR6q0249_001.yaml, hash: 'sha256:71c24f54fcce558dff05cb19f3ad736359549b9df446b93d24c1cb1b65cdc100'}
+  - {seq: 2, filename: KR6q0249_002.yaml, hash: 'sha256:1e1f4d9de36fc492e539554c432b7f2467d3d5954507c09b075799d9303862af'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0249_000.markers.yaml, hash: 'sha256:15a57c36718e662c215cf9541fc417a7d6692fa93b367ae53f01cd0da5be5bee'}
-  - {seq: 1, role: markers, filename: assets/KR6q0249_001.markers.yaml, hash: 'sha256:c6d16230e3ebf5bcae2f1df7a3d8ed345c06c37eadd440dd73d61ca5c5a40660'}
-  - {seq: 2, role: markers, filename: assets/KR6q0249_002.markers.yaml, hash: 'sha256:7aa077d46c258b92df6b61c8c974c1527f841dd1a2546fe5487de95b1d2bf21d'}
+  - {seq: 0, role: markers, filename: assets/KR6q0249_000.markers.yaml, hash: 'sha256:1bf3f0467962d114a7253bfd21a5cc35be43cdb0bfbff94e290cffd74bf25a0e'}
+  - {seq: 1, role: markers, filename: assets/KR6q0249_001.markers.yaml, hash: 'sha256:50e447968a48e77d0d31ec8a0eb11173f3e732dc8bb699e271fae11a4f350550'}
+  - {seq: 2, role: markers, filename: assets/KR6q0249_002.markers.yaml, hash: 'sha256:8a124ea1ac4f83924c14c7d627872c5a9340a61b90a7c56ca325ef55de0a9e01'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1079,4 +1079,7 @@ table_of_contents:
   label: 第百則古德沙水
   type: mulu
   level: 1
-hash: sha256:2273eda39a69b49ec18a2ae0b300157d6831f18dd4636c988c8a35f1cee6ff7a
+hash: sha256:37071a740e5a4535fb3425fac02cca28dad9ddf9ca08336f1008f6d161d408d1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
