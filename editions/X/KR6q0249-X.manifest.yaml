@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0249_000-X.yaml, hash: 'sha256:ca944becba1dc8762c06460f3fab9581f7db5722948241669fb2913f50d773da'}
+  - {seq: 0, filename: KR6q0249_000-X.yaml, hash: 'sha256:1f1fe5bd7df54ceefc545a223644f0cd7ab33acfe081d0f8b166b69884a5cacd'}
   - {seq: 1, filename: KR6q0249_001-X.yaml, hash: 'sha256:2568a5f2973e4d058c0d447c81108103d3b3e9d760db70f7b3dad90993ca0503'}
   - {seq: 2, filename: KR6q0249_002-X.yaml, hash: 'sha256:e4bb925c8e547d0ec1c145074e9148b9feb96bbfce7f13a5e01ae6aba101e5b1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0249_000-X.markers.yaml, hash: 'sha256:e19bb9e4f9e9aff7b43c7fe01d617e95d0824edde9ee65cd412e7e1d19b14a88'}
+  - {seq: 0, role: markers, filename: assets/KR6q0249_000-X.markers.yaml, hash: 'sha256:2c73e2f0b3ee28c9319cd919858a6fcd767d20ed1ae932d37564b36049d85bf3'}
   - {seq: 1, role: markers, filename: assets/KR6q0249_001-X.markers.yaml, hash: 'sha256:8d96b52875bb0f0b5b2a9aa4e946a4b3e992c2db4a5ed0d4ae244b0733d63b51'}
   - {seq: 2, role: markers, filename: assets/KR6q0249_002-X.markers.yaml, hash: 'sha256:5f6d3a616b65b742e354dd9a99038209add1c4487e6a2de0ea221d4bde7863ae'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0249_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1301-A 重刻圓悟禪師擊節錄題辭
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0249_X_000-mulu-2
     span:
-    - front
+    - body
     - 123
     - 123
   label: No. 1301-B
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0249_X_000-mulu-3
     span:
-    - front
+    - body
     - 376
     - 376
   label: 佛果擊節目錄
@@ -1077,4 +1077,4 @@ table_of_contents:
   label: 第百則古德沙水
   type: mulu
   level: 1
-hash: sha256:21e326dc619e5721ad75dcb495c7c4b8656b381be595f5e18df4d312f44f6f4f
+hash: sha256:f15dbd0da1b2e2cef8e97465384f31959e16d088af184b70c65d449a1416f774

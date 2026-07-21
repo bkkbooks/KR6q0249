@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0249_000.yaml, hash: 'sha256:5f142151a3708fe10d09d2ce5066ad4f7b03ee8643c7ad121c0b559b6ec0dd79'}
+  - {seq: 0, filename: KR6q0249_000.yaml, hash: 'sha256:bad416e7e3b50dc921b4c5dc489645fb900ed9528a2aef810779499133b76cae'}
   - {seq: 1, filename: KR6q0249_001.yaml, hash: 'sha256:71c24f54fcce558dff05cb19f3ad736359549b9df446b93d24c1cb1b65cdc100'}
   - {seq: 2, filename: KR6q0249_002.yaml, hash: 'sha256:1e1f4d9de36fc492e539554c432b7f2467d3d5954507c09b075799d9303862af'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0249_000.markers.yaml, hash: 'sha256:1bf3f0467962d114a7253bfd21a5cc35be43cdb0bfbff94e290cffd74bf25a0e'}
+  - {seq: 0, role: markers, filename: assets/KR6q0249_000.markers.yaml, hash: 'sha256:864b86c0abff96b6790473d49410d4991aaee3002fb027cbc785d3be125982ba'}
   - {seq: 1, role: markers, filename: assets/KR6q0249_001.markers.yaml, hash: 'sha256:50e447968a48e77d0d31ec8a0eb11173f3e732dc8bb699e271fae11a4f350550'}
   - {seq: 2, role: markers, filename: assets/KR6q0249_002.markers.yaml, hash: 'sha256:8a124ea1ac4f83924c14c7d627872c5a9340a61b90a7c56ca325ef55de0a9e01'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0249_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1301-A 重刻圓悟禪師擊節錄題辭
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0249_X_000-mulu-2
     span:
-    - front
+    - body
     - 123
     - 123
   label: No. 1301-B
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0249_X_000-mulu-3
     span:
-    - front
+    - body
     - 376
     - 376
   label: 佛果擊節目錄
@@ -1079,7 +1079,7 @@ table_of_contents:
   label: 第百則古德沙水
   type: mulu
   level: 1
-hash: sha256:37071a740e5a4535fb3425fac02cca28dad9ddf9ca08336f1008f6d161d408d1
+hash: sha256:6f38137ed508c34eaa1a9ee2079a79d89f636734d0262ba4871a5823c28b6034
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
